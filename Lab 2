@@ -10,6 +10,75 @@ int c;
   scanf{"%d , & b };
 
    c =a+b;
-printf("Addition = %d , sum )
+printf("Addition = %d" , c )
  return 0 ;
 }
+
+
+
+# SUBTRACTION 
+
+#include <stdio.h>
+ {
+int a;
+int b; 
+int c;
+  printf("enter two numbers "):
+  scanf {"%d , & a};
+  scanf{"%d , & b };
+
+   c =a-b;
+printf("Subtraction = %d" , c )
+ return 0 ;
+}
+
+
+# MULTIPLICATION 
+
+#include <stdio.h>
+ {
+int a;
+int b; 
+int c;
+  printf("enter two numbers "):
+  scanf {"%d , & a};
+  scanf{"%d , & b };
+
+   c =a*b;
+printF{"Multiplication = %d", c )
+ return 0 ;
+}
+
+
+# DIVISION 
+
+#include <stdio.h>
+ int main ()
+ {
+    float a;
+    float b; 
+    float c;
+        printf("enter two numbers "):
+        scanf {"%f , & a};
+        scanf{"%f , & b };
+    if ( b!=0)
+    {
+        divion  = a/b ;
+        printf("Division = %f.2" , division );
+    }
+   else
+   {
+        printf("CANNOT BE DIVIDED NY ZERO")
+   }
+
+        return 0;
+}
+
+
+
+
+
+
+
+
+
