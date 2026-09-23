@@ -1,0 +1,15 @@
+# ADDITIION 
+
+#include <stdio.h>
+ {
+int a;
+int b; 
+int c;
+  printf("enter two numbers "):
+  scanf {"%d , & a};
+  scanf{"%d , & b };
+
+   c =a+b;
+printf("Addition = %d , sum )
+ return 0 ;
+}
