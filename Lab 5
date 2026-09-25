@@ -1,0 +1,16 @@
+# FOR LOOP PROGRAM 
+
+#include<stdio.h>
+ int main ()
+{
+   int n , sum=0;
+   printf("enter a range from 0 to n");
+   scanf("%d",&n);
+   for (int i=1 ; i<=n; i++)
+ {
+   sum = sum +i;
+   printf("print sum of %d natural numbers = %d\n,i,sum);
+ }
+printf("print sum of natural numbers %d , sum );
+ return 0 ;
+}
