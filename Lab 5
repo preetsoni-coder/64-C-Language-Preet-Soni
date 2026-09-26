@@ -11,8 +11,8 @@
    sum = sum +i;
    printf("print sum of %d natural numbers = %d\n",i,sum);
  }
-printf("print sum of natural numbers %d" , sum );
- return 0 ;
+   printf("print sum of natural numbers %d" , sum );
+   return 0 ;
 }
 
 
