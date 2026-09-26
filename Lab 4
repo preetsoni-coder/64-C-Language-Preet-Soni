@@ -1,1 +1,87 @@
 # INCREMENT PROGRAM 
+
+#include <stdio.h>
+int main()
+{
+    int a;
+    printf("Enter a number: ");
+    scanf("%d", &a);
+
+    printf("Value before increment = %d\n", a++);
+
+    printf("Value after increment = %d\n", a);
+
+    return 0;
+}
+
+
+# DECREMENT PROGRAM 
+
+# include<stdio.h>
+  int main()
+{
+    int a;
+    printf("Enter a number: ");
+    scanf("%d", &a);
+
+    printf("Value before decrement = %d\n", a--)
+
+    printf("Value after decrement = %d\n", a);
+
+    return 0;
+}
+
+
+# SIGNED PROGRAM 
+
+#include <stdio.h>
+int main()
+{
+    signed int a;
+
+    printf("Enter a number: ");
+    scanf("%d", &a);
+
+    printf("The signed number is = %d\n", a);
+    return 0;
+}
+
+
+#UNSIGNED PROGRAM 
+
+#include <stdio.h>
+int main()
+
+{
+    unsigned int a;
+    printf("Enter a positive number: ");
+    scanf("%u", &a);
+
+    printf("The unsigned number is = %u\n", a);
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
