@@ -14,3 +14,51 @@
 printf("print sum of natural numbers %d , sum );
  return 0 ;
 }
+
+
+# SWAPPING TWO NUMBERS PROGRAM 
+
+#include<stdio.h>
+int main ()
+{
+   int A=5 , B=10;
+   int C;
+   printf("value of A is %d and value of B is %d\n" , A,B);
+   C=A;
+   A=B;
+   B=C;
+   printf("value of A is %d and value of B is %d\n" , A,B);
+
+   return 0;
+}
+
+
+# LARGEST OF THREE NUMBERS PROGRAM 
+
+#include<stdio.h>
+int main ()
+{
+   int a,b,c;
+   printf("ENTER THREE NUMBERS")
+   scanf("%d %d %d ,&a &b &c );
+
+   if(a>=b && a>=c)
+   printf("LARGEST NUMBER IS = "%d" , a);
+
+   else if(b>=a && b>=c)
+   printf("LARGEST NUMBER IS = "%d" , b);
+
+   else 
+   printf("LARGEST NUMBER IS = "%d" , c);
+
+   return 0 ;
+}
+
+
+
+
+
+
+
+
+
