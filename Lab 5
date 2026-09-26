@@ -9,9 +9,9 @@
    for (int i=1 ; i<=n; i++)
  {
    sum = sum +i;
-   printf("print sum of %d natural numbers = %d\n,i,sum);
+   printf("print sum of %d natural numbers = %d\n",i,sum);
  }
-printf("print sum of natural numbers %d , sum );
+printf("print sum of natural numbers %d" , sum );
  return 0 ;
 }
 
