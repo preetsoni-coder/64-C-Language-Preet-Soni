@@ -5,6 +5,7 @@ int main()
 {
    int a=12 , b= 9;
 
+  printf("MY NAME IS PREET SONI SOLVING PROGRAM 6 ");
   printf("a>b = %d\n", a>b );
   printf("a<b = %d\n", a<b );
   printf("a>=b = %d\n", a>=b );
@@ -23,6 +24,7 @@ int main()
 {
     int a = 5, b = 3;
 
+    printf("MY NAME IS PREET SONI SOLVING PROGRAM 7 ");
     printf("a & b = %d\n", a & b);
     printf("a | b = %d\n", a | b);
     printf("a ^ b = %d\n", a ^ b);
