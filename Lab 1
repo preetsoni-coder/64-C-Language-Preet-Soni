@@ -1,7 +1,7 @@
 #include stdio<>
 int main
 { 
-   printf("MY NAME IS PREET SONI")
+   printf("MY NAME IS PREET SONI SOLVING PROGRAM 1 ");
    printf("HELLO WORLD")
    return 0;
 }
