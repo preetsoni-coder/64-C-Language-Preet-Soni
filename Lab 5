@@ -4,6 +4,8 @@
  int main ()
 {
    int n , sum=0;
+
+   printf("MY NAME IS PREET SONI SOLVING PROGRAM  12 ");
    printf("enter a range from 0 to n");
    scanf("%d",&n);
    for (int i=1 ; i<=n; i++)
@@ -23,6 +25,8 @@ int main ()
 {
    int A=5 , B=10;
    int C;
+
+   printf("MY NAME IS PREET SONI SOLVING PROGRAM 13 ");
    printf("value of A is %d and value of B is %d\n" , A,B);
    C=A;
    A=B;
@@ -39,6 +43,8 @@ int main ()
 int main ()
 {
    int a,b,c;
+
+   printf("MY NAME IS PREET SONI SOLVING PROGRAM 14 ");
    printf("ENTER THREE NUMBERS")
    scanf("%d %d %d ,&a &b &c );
 
