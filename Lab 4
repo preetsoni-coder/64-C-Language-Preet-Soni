@@ -4,6 +4,8 @@
 int main()
 {
     int a;
+
+    printf("MY NAME IS PREET SONI SOLVING PROGRAM 8");
     printf("Enter a number: ");
     scanf("%d", &a);
 
@@ -21,6 +23,8 @@ int main()
   int main()
 {
     int a;
+
+    printf("MY NAME IS PREET SONI SOLVING PROGRAM 9 ");
     printf("Enter a number: ");
     scanf("%d", &a);
 
@@ -39,6 +43,7 @@ int main()
 {
     signed int a;
 
+    printf("MY NAME IS PREET SONI SOLVING PROGRAM 10 ");
     printf("Enter a number: ");
     scanf("%d", &a);
 
@@ -54,6 +59,8 @@ int main()
 
 {
     unsigned int a;
+
+    printf("MY NAME IS PREET SONI SOLVING PROGRAM 11 ");
     printf("Enter a positive number: ");
     scanf("%u", &a);
 
