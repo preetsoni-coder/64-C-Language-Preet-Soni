@@ -6,6 +6,7 @@ int main ()
 int a;
 int b; 
 int c;
+  printf("MY NAME IS PREET SONI SOLVING PROGRAM 2 ");
   printf("enter two numbers ");
   scanf {"%d ", & a};
   scanf{"%d" , & b };
@@ -25,6 +26,7 @@ int main ()
 int a;
 int b; 
 int c;
+  printf("MY NAME IS PREET SONI SOLVING PROGRAM 3 ");
   printf("enter two numbers ");
   scanf ("%d" , & a);
   scanf("%d ", & b );
@@ -42,6 +44,7 @@ printf("Subtraction = %d" , c );
 int a;
 int b; 
 int c;
+  printf("MY NAME IS PREET SONI SOLVING PROGRAM 4 ");
   printf("enter two numbers "):
   scanf {"%d , & a};
   scanf{"%d , & b };
@@ -60,6 +63,7 @@ printF{"Multiplication = %d", c )
     float a;
     float b; 
     float c;
+        printf("MY NAME IS PREET SONI SOLVING PROGRAM 5 ");
         printf("enter two numbers "):
         scanf {"%f , & a};
         scanf{"%f , & b };
