@@ -1,0 +1,77 @@
+DIVISIBLITY CHECK 
+
+#include <stdio.h>
+int main() {
+    int a;
+    printf("PREET SONI\n");
+    printf("Enter your number");
+    scanf("%d",&a);
+    if (a%3==0&&a%5!=0)
+        printf("The number is fulfilling the condition");
+    else
+        printf("It doesn't fulfil the condition");
+    return 0;
+}
+
+SUM EVEN FABONNACI SERIES 
+
+#include <stdio.h>
+int main()
+{
+    int n, i, a = 0, b = 1, c, sum = 0;
+    printf("PREET SONI\n");
+    printf("Enter number of terms: ");
+    scanf("%d", &n);
+    for(i = 1; i <= n; i++)
+    {
+        printf("%d ", a);
+        if(a % 2 == 0)
+        {
+            sum = sum + a;
+        }
+        c = a + b;
+        a = b;
+        b = c;
+    }
+    printf("\nSum of even terms = %d", sum);
+    return 0;
+}
+
+SUM ODD OF FABONACCI SERIES
+
+#include <stdio.h>
+int main()
+{
+    int n, i, a = 0, b = 1, c, sum = 0;
+    printf("PREET SONI\n");
+    printf("Enter number of terms: ");
+    scanf("%d", &n);
+    for(i = 1; i <= n; i++)
+    {
+        printf("%d ", a);
+        if(a % 2 != 0)
+        {
+            sum = sum + a;
+        }
+        c = a + b;
+        a = b;
+        b = c;
+    }
+    printf("\nSum of odd terms = %d", sum);
+    return 0;
+}
+
+TERNARY OPERATOR 
+
+#include <stdio.h>
+
+int main()
+{
+    printf("PREET SONI\n");
+    int a, b, c, max;
+    printf("Enter three numbers: ");
+    scanf("%d %d %d", &a, &b, &c);
+    max = (a > b) ? ((a > c) ? a : c) : ((b > c) ? b : c);
+    printf("Greatest number = %d", max);
+    return 0;
+}
